@@ -1,0 +1,4 @@
+add
+read
+delete
+updateg
