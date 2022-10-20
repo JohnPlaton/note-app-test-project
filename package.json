@@ -1,0 +1,19 @@
+{
+  "name": "note-app-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "note test app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnPlaton/note-app-test-project.git"
+  },
+  "author": "adrian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnPlaton/note-app-test-project/issues"
+  },
+  "homepage": "https://github.com/JohnPlaton/note-app-test-project#readme"
+}
